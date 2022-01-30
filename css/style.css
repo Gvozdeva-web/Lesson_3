@@ -1,0 +1,62 @@
+/*@import "null.css";*/
+header {
+	color: dimgray;
+}
+
+span {
+	color: tomato;
+}
+.header-list .header-list-1 {
+	color: brown;
+}
+
+.header-list .header-list-2 {
+	color: darkgoldenrod;
+}
+
+.header-list .header-list-3 {
+	color: deepskyblue;
+}
+#section_1 {
+	color: brown;
+}
+
+#section_3 {
+	color: darkgoldenrod;
+}
+
+#section_5 {
+	color: deepskyblue;
+}
+
+.method-1-step-1 {
+	color: dimgrey;
+}
+
+.method-1-step-1 p {
+	color: deeppink;
+}
+.method-1-step-1 span {
+	color: goldenrod;
+}
+.list span {
+	color: green;
+}
+p span {
+	color: red;
+}
+[class*="-step-2"] {
+	color: navy;
+}
+[class*="-step-3"] {
+	color: deeppink;
+}
+[class*="-step-1"] {
+	color: darkslategray;
+}
+.list li {
+	color: indianred;
+}
+[title="Имя"]{
+	color: rebeccapurple;
+}
